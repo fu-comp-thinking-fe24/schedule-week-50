@@ -16,9 +16,12 @@ Vi kommer inledningsvis titta på begreppet programmering, vad det innebär, sam
 
 ### Presentationer
 
+* [Kursintro](https://docs.google.com/presentation/d/1gKkNsgWH5oKPzhSoPRT1gDkMVkxHtGi1/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [Programmering och datalogiskt tänkande](https://docs.google.com/presentation/d/1OUtxmCEAG59hPvqviQFK6MSuNVMCoWry/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
-### Filmer
+### Inspelningar
 
+Kommer strax...
 
 ### Länkar
 
