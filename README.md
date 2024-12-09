@@ -21,7 +21,13 @@ Vi kommer inledningsvis titta på begreppet programmering, vad det innebär, sam
 
 ### Inspelningar
 
-Kommer strax...
+* [9 dec, kursintro](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/Ee07aVMteX5Knj8FWvPW7FoBG2epcEcTkXiOotFdF3cXGw?e=kIkXWu)
+* [9 dec, Föreläsning](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EXHlcw2LNB5FouUH1pF-pg0BUN67zd7QKW8QghNY3QIYYA?e=n0AAnq)
+* [9 dec, kodexempel](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EXHlcw2LNB5FouUH1pF-pg0BUN67zd7QKW8QghNY3QIYYA?e=n0AAnq)
+
+### Lektionskod
+
+* [9 dec, Computational Thinking Games Exempel](https://github.com/fu-comp-thinking-fe24/lecture-9-dec-comp-thinking/tree/main)
 
 ### Länkar
 
