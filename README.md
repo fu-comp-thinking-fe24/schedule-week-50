@@ -42,3 +42,4 @@ Vi kommer inledningsvis titta på begreppet programmering, vad det innebär, sam
 ### Övningar
 
 * [Computational Thinking Games](https://github.com/fu-comp-thinking-fe24/exercise-computational-thinking-games)
+* [AI Seminarium](https://github.com/fu-comp-thinking-fe24/exercise-ai-seminar)
