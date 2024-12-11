@@ -24,6 +24,8 @@ Vi kommer inledningsvis titta på begreppet programmering, vad det innebär, sam
 * [9 dec, kursintro](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/Ee07aVMteX5Knj8FWvPW7FoBG2epcEcTkXiOotFdF3cXGw?e=kIkXWu)
 * [9 dec, Föreläsning](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EXHlcw2LNB5FouUH1pF-pg0BUN67zd7QKW8QghNY3QIYYA?e=n0AAnq)
 * [9 dec, kodexempel](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EUy8ns51AxJHv3W9Be12xjwB2DVYT02bajxAHgCC6vPtow?e=bukQZa)
+* [11 dec, exempel med Ellos.se](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EdOJl_57sx1MsrWoT3jVvWMBRZMMBs-3QKFoVca9vGH0Vg?e=ZORoH8)
+* [11 dec, gruppexeminationsintroduktion](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/Eak6WxY1yBNOgy2pcnL1Qd0BYdvuNJDFWJc4b05R7cwqTQ?e=k0N49j)
 
 ### Lektionskod
 
