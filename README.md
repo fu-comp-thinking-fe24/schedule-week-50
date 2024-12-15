@@ -18,6 +18,7 @@ Vi kommer inledningsvis titta på begreppet programmering, vad det innebär, sam
 
 * [Kursintro](https://docs.google.com/presentation/d/1gKkNsgWH5oKPzhSoPRT1gDkMVkxHtGi1/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [Programmering och datalogiskt tänkande](https://docs.google.com/presentation/d/1OUtxmCEAG59hPvqviQFK6MSuNVMCoWry/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [Programmering och pseudokod](https://docs.google.com/presentation/d/1IIkCNn5GD13MqIY3rDEvt-golAhnRd87/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelningar
 
@@ -26,6 +27,7 @@ Vi kommer inledningsvis titta på begreppet programmering, vad det innebär, sam
 * [9 dec, kodexempel](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EUy8ns51AxJHv3W9Be12xjwB2DVYT02bajxAHgCC6vPtow?e=bukQZa)
 * [11 dec, exempel med Ellos.se](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EdOJl_57sx1MsrWoT3jVvWMBRZMMBs-3QKFoVca9vGH0Vg?e=ZORoH8)
 * [11 dec, gruppexeminationsintroduktion](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/Eak6WxY1yBNOgy2pcnL1Qd0BYdvuNJDFWJc4b05R7cwqTQ?e=k0N49j)
+* [12 dec, AI Seminarium](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/Ed2zg7_Fc2FEiDFIpZJQE4QBdHbCJu15T78K3D5EktVgag?e=1Q9EaF)
 
 ### Lektionskod
 
@@ -43,3 +45,4 @@ Vi kommer inledningsvis titta på begreppet programmering, vad det innebär, sam
 
 * [Computational Thinking Games](https://github.com/fu-comp-thinking-fe24/exercise-computational-thinking-games)
 * [AI Seminarium](https://github.com/fu-comp-thinking-fe24/exercise-ai-seminar)
+* [Pseudo Code Bootcamp](https://github.com/fu-comp-thinking-fe24/exercise-pseudo-code)
