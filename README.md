@@ -28,6 +28,9 @@ Vi kommer inledningsvis titta på begreppet programmering, vad det innebär, sam
 * [11 dec, exempel med Ellos.se](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EdOJl_57sx1MsrWoT3jVvWMBRZMMBs-3QKFoVca9vGH0Vg?e=ZORoH8)
 * [11 dec, gruppexeminationsintroduktion](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/Eak6WxY1yBNOgy2pcnL1Qd0BYdvuNJDFWJc4b05R7cwqTQ?e=k0N49j)
 * [12 dec, AI Seminarium](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/Ed2zg7_Fc2FEiDFIpZJQE4QBdHbCJu15T78K3D5EktVgag?e=1Q9EaF)
+* [16 dec, Pseudokod](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EbRlPN063_RBrHkB3jtIOBYBZ-dUzxLEJChzSPu2TFdwsg?e=4aM6dH)
+* [16 dec, genomgång ind. examinationsuppgift](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/Eac3ebFG6j5Irc5MiosKs9MB7uZixCLb-7Uy8KZi0-RM0A?e=4LDzaE)
+* [16 dec, Demo Doublets](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EWxAJOm-V8tFhbRMFm3GnVABPys_e68wgGiGWy96iGsjxA?e=Fm3j61)
 
 ### Lektionskod
 
