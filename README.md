@@ -34,7 +34,7 @@ Vi kommer inledningsvis titta på begreppet programmering, vad det innebär, sam
 * [9 dec, Computational Thinking Games Exempel](https://github.com/fu-comp-thinking-fe24/lecture-9-dec-comp-thinking/tree/main)
 * [9 dec, FigJam Exempel](https://www.figma.com/board/wetCd9hxb4eG0igB4rMAnx/Untitled?node-id=0-1&t=E1ufTLMcDvT7zzEX-1)
 * [11 dec, FigJam på Ellos.se](https://www.figma.com/board/tBESqAOKnggUrgo08iyT0g/Untitled?node-id=0-1&t=7DoAwsES5SSn3q4r-1)
-* [15 dec, Pseudokod](https://github.com/fu-comp-thinking-fe24/lecture-15-dec-pseudo-code)
+* [16 dec, Pseudokod](https://github.com/fu-comp-thinking-fe24/lecture-15-dec-pseudo-code)
 
 ### Länkar
 
